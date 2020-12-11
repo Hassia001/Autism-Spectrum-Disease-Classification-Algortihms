@@ -1,2 +1,2 @@
 # Autism-Spectrum-Disease-Classification-Algortihms
-1. Abstract The objective of the project is to observe the outcome from the classification algorithms applied from data sets pertaining to Autism Spectrum Disorder (ASD) screening for adults, adolescents and children. The three datasets are obtained from the UCI machine learning lab.
+The objective of the project is to observe the outcome of Autism Spectrum Disorder (ASD) screening in adults, adolescents and children from different classification algorithms. The datasets are obtained from the UCI machine learning lab.
